@@ -6,7 +6,7 @@ Now days data science become important aspect in different fields, as in Busines
 
 Problem:
 
-In this project I will analyze ‘Online Shoppers Intention ‘data to try improve the customers experience with the website, to gain more revenues 
+ this project is for  T5 Bootcamp(online), And I will analyze ‘Online Shoppers Intention ‘data to try improve the customers experience with the website, to gain more revenues 
 
 And answer these few questions:
 
