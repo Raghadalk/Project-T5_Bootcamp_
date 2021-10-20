@@ -14,6 +14,8 @@ And answer these few questions:
 
 ---------------------------------------------------------------
 
+Project prposal: https://github.com/Raghadalk/Project-T5_Bootcamp_/blob/main/prposal-project.pdf
+
 the project slides: https://github.com/Raghadalk/Project-T5_Bootcamp_/blob/main/Presention.pptx
 
 Final code: https://github.com/Raghadalk/Project-T5_Bootcamp_/blob/main/FinalCode.ipynb
