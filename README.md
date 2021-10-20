@@ -6,7 +6,9 @@
 And answer these few questions:
 
 •	Is the weekend a factor to raise the revenue?
+
 •	the closeness of the site visiting time to a specific special day (e.g., Mother’s Day, Valentine's Day) effect the revenue?
+
 •	What features has the strong correlation with revenue?
 
 
