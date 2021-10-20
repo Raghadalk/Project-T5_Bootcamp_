@@ -1,11 +1,6 @@
 # Project-T5_Bootcamp_
 
 
-Now days data science become important aspect in different fields, as in Business field to understand the costumers.  With so many potential sources of customer data, a foundational understanding of data science could help make sense of it.
-
-
-Problem:
-
  this project is for  T5 Bootcamp(online), And I will analyze ‘Online Shoppers Intention ‘data to try improve the customers experience with the website, to gain more revenues 
 
 And answer these few questions:
